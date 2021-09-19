@@ -1,2 +1,6 @@
 I am a ghost, but i fear.
+<<<<<<< HEAD
 Hello, welcome to the ghost worls
+=======
+Hello, welcome to the ghost world.
+>>>>>>> story_2
